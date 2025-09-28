@@ -23,7 +23,7 @@ Just a dev from India trying to ship clean code without breaking prod. I'm curre
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,python,ts,nextjs,go,rust" />
+    <img src="https://skillicons.dev/icons?i=tailwind,html,css,react,js,python" />
   </a>
 </p>
 
